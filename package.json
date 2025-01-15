@@ -1,6 +1,6 @@
 {
   "name": "xml-encryption",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "devDependencies": {
     "mocha": "^7.1.2",
     "should": "^11.2.1",
@@ -30,8 +30,5 @@
   ],
   "scripts": {
     "test": "mocha"
-  },
-  "engines": {
-    "node": ">=12 < 18"
   }
 }
